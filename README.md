@@ -6,4 +6,5 @@ https://colab.research.google.com/drive/1m6pSRw06jh31GjLzWB33xMN_Sr7o46EO#scroll
 ###**ANSWER**: it is because using image pixil values is more iffective in training images it Train the model faster
 ##3 List the layers used in the neural network and their functions.
 ###**ANSWER**: layers.Flatten(input_shape=(28, 28)), layers.Dense(128, activation='relu'),layers.Dense(10),layers.Softmax()
-##4. What does an epoch mean in model training?  
+##4. What does an epoch mean in model training?  ###**Answer**: epoch means a complete trained Data set of this Model..
+##5. 5. Compare the predicted label and actual label for the first test image.###**ANSWER**
